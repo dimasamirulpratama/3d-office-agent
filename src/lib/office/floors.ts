@@ -135,7 +135,7 @@ export const OFFICE_FLOORS: readonly FloorDefinition[] = [
   },
 ] as const;
 
-export const DEFAULT_ACTIVE_FLOOR_ID: FloorId = "lobby";
+export const DEFAULT_ACTIVE_FLOOR_ID: FloorId = "hermes-first";
 
 const FLOOR_BY_ID: Readonly<Record<FloorId, FloorDefinition>> = OFFICE_FLOORS.reduce(
   (acc, floor) => {

@@ -28,7 +28,7 @@ export function AgentIdentityFields({
         <input
           className={inputClassName}
           value={values.name}
-          placeholder="e.g. Luke"
+          placeholder="e.g. Dimas"
           disabled={disabled}
           onChange={(event) => {
             onChange("name", event.target.value);

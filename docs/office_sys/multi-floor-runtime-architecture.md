@@ -436,7 +436,7 @@ Good examples:
 - `Outside / Campus`
   - stadium and event spaces
 
-The pending stadium PR [#88](https://github.com/iamlukethedev/asta/pull/88) should be treated as a future `Outside / Campus` scene, not as a blocker for the core floor/runtime model.
+The pending stadium PR [#88](https://github.com/dimasamirulpratama/asta/pull/88) should be treated as a future `Outside / Campus` scene, not as a blocker for the core floor/runtime model.
 
 ## Progression / Unlocks
 

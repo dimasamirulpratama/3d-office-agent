@@ -117,7 +117,7 @@ describe("task board controller helpers", () => {
   });
 
   it("accepts messages with common verb typos", () => {
-    expect(isActionableTaskRequest("Rearch who is Luke the dev")).toBe(true);
+    expect(isActionableTaskRequest("Rearch who is Dimas the dev")).toBe(true);
     expect(isActionableTaskRequest("Reserch best practices for React")).toBe(true);
     expect(isActionableTaskRequest("Resarch the latest trends")).toBe(true);
   });

@@ -2266,7 +2266,7 @@ export function RetroOffice3D({
   githubSkill = null,
   taskManagerEnabled = false,
   soundastaEnabled = false,
-  officeTitle = "Luke Headquarters",
+  officeTitle = "Dimas Headquarters",
   officeTitleLoaded = false,
   remoteOfficeEnabled = false,
   remoteOfficeSourceKind = "presence_endpoint",

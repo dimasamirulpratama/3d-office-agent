@@ -30,8 +30,8 @@ const PACKAGED_SKILLS: PackagedSkillDefinition[] = [
     name: "todo",
     description: "Maintain a shared workspace TODO list with blocked tasks.",
     installSource: "Asta-workspace",
-    creatorName: "iamlukethedev",
-    creatorUrl: "http://x.com/iamlukethedev/",
+    creatorName: "dimasamirulpratama",
+    creatorUrl: "http://x.com/dimasamirulpratama/",
   },
   {
     packageId: "task-manager",
@@ -40,8 +40,8 @@ const PACKAGED_SKILLS: PackagedSkillDefinition[] = [
     description:
       "Capture actionable requests as persistent tasks and keep a shared Kanban task store in sync.",
     installSource: "Asta-workspace",
-    creatorName: "iamlukethedev",
-    creatorUrl: "https://github.com/iamlukethedev",
+    creatorName: "dimasamirulpratama",
+    creatorUrl: "https://github.com/dimasamirulpratama",
   },
   {
     packageId: "soundasta",
@@ -49,8 +49,8 @@ const PACKAGED_SKILLS: PackagedSkillDefinition[] = [
     name: "soundasta",
     description: "Control Spotify playback, search music, and return shareable music links.",
     installSource: "Asta-workspace",
-    creatorName: "iamlukethedev",
-    creatorUrl: "https://github.com/iamlukethedev",
+    creatorName: "dimasamirulpratama",
+    creatorUrl: "https://github.com/dimasamirulpratama",
   },
 ];
 

@@ -13,7 +13,7 @@ Please use GitHub Issues for bugs, feature requests, and questions about planned
 
 ## Local setup
 ```bash
-git clone https://github.com/iamlukethedev/asta.git
+git clone https://github.com/dimasamirulpratama/asta.git
 cd asta
 npm install
 cp .env.example .env

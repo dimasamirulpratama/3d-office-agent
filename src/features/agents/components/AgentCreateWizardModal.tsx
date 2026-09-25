@@ -447,7 +447,7 @@ export function AgentCreateWizardModal({
                       <WizardField
                         label="Name"
                         value={draft.user.name}
-                        placeholder="e.g. Luke"
+                        placeholder="e.g. Dimas"
                         disabled={isWorking}
                         onChange={(value) => {
                           updateDraft("user", { ...draft.user, name: value });
@@ -456,7 +456,7 @@ export function AgentCreateWizardModal({
                       <WizardField
                         label="What to call them"
                         value={draft.user.callThem}
-                        placeholder="e.g. Luke"
+                        placeholder="e.g. Dimas"
                         disabled={isWorking}
                         onChange={(value) => {
                           updateDraft("user", { ...draft.user, callThem: value });

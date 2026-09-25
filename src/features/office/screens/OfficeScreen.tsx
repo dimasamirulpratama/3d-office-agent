@@ -4684,11 +4684,7 @@ export function OfficeScreen({
         !shouldPromptForConnect &&
         ((!didAttemptGatewayConnect && showDelayedGatewayLoadingOverlay) ||
           (status === "connecting" && showDelayedGatewayLoadingOverlay))));
-  const showGatewayConnectOverlay =
-    connectPromptReady &&
-    status === "disconnected" &&
-    !agentsLoaded &&
-    (shouldPromptForConnect || showDelayedGatewayConnectOverlay);
+  const showGatewayConnectOverlay = false;
 
   const runningCount = state.agents.filter(
     (agent) =>

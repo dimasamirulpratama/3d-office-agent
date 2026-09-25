@@ -224,11 +224,11 @@ Scope:
 - Retire or reduce the Hermes Asta shim.
 - Convert shim-only routes into provider-native routes where possible.
 
-## Near-Term Guidance For Luke
+## Near-Term Guidance For Dimas
 
-If Luke wants "drop-in Hermes support right now", PR #70 is directionally useful.
+If Dimas wants "drop-in Hermes support right now", PR #70 is directionally useful.
 
-If Luke wants "asta should support any backend cleanly", PR #70 should not be the mainline architecture.
+If Dimas wants "asta should support any backend cleanly", PR #70 should not be the mainline architecture.
 
 Best compromise:
 

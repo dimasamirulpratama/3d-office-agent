@@ -152,7 +152,7 @@ This host is what asta will use as `wss://<gateway-host>.<tailnet>.ts.net`.
 On **Machine B**:
 
 ```bash
-git clone https://github.com/iamlukethedev/asta.git asta
+git clone https://github.com/dimasamirulpratama/asta.git asta
 cd asta
 npm install
 cp .env.example .env
